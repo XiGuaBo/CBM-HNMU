@@ -36,7 +36,7 @@ net switch : ["nfresnet50" , "vit" , "resnext26" , "botnet26t" , "rexnet100" , "
 dataset switch : ["flower102" , "cifar10" , "cifar100" , "cub" , "aircraft"]  
 
 python train_base.py <net_sw> <dataset_sw> <data_root>  
-eg: python train_base.py nfresnet50 flower102 ../YOUR_FLODER/Dataset  
+eg: python train_base.py nfresnet50 flower102 ../YOUR_FOLDER/Dataset  
 
 # Confusing Categories Selection
 python Reasonable.py <net_sw> <dataset_sw> <data_root> <cc_select>  
