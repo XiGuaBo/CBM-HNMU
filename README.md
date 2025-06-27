@@ -29,12 +29,12 @@ Clip  : [url:] https://github.com/openai/CLIP
 Craft : [url:] https://github.com/deel-ai/Craft  
 
 # Datasets
-Please Inference the README.md in Dataset.  
+Please reference the README.md in Dataset.  
 
+# Train Baselines (Fine-Tune)
 net switch : ["nfresnet50" , "vit" , "resnext26" , "botnet26t" , "rexnet100" , "gcvit" , "deit" , "convit" , "cait"]  
 dataset switch : ["flower102" , "cifar10" , "cifar100" , "cub" , "aircraft"]  
 
-# Train Baselines (Fine-Tune)
 python train_base.py <net_sw> <dataset_sw> <data_root>  
 eg: python train_base.py nfresnet50 flower102 ../YOUR_FLODER/Dataset  
 
