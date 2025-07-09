@@ -29,7 +29,7 @@ Clip  : [url:] https://github.com/openai/CLIP
 Craft : [url:] https://github.com/deel-ai/Craft  
 
 # Datasets
-Please reference the README.md in Dataset.  
+Please refer to the README.md in Dataset.  
 
 # Train Baselines (Fine-Tune)
 net switch : ["nfresnet50" , "vit" , "resnext26" , "botnet26t" , "rexnet100" , "gcvit" , "deit" , "convit" , "cait"]  
