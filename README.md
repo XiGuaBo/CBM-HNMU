@@ -1,7 +1,6 @@
 # ICCV 2025
 ## Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding (CBM-HNMU)
-![CBM-HNMU Arch Figure 1](https://github.com/XiGuaBo/CBM-HNMU/blob/main/post_figs/figure1_own.png "CBM-HNMU Arch Figure 1")  
-![CBM-HNMU Arch Figure 2](https://github.com/XiGuaBo/CBM-HNMU/blob/main/post_figs/figure1_own_v1.png "CBM-HNMU Arch Figure 2")
+![CBM-HNMU](https://github.com/XiGuaBo/CBM-HNMU/blob/main/ICCV 2025 CBM-HNMU (Poster) _Latex.png "CBM-HNMU")  
 
 # requirement
 clip==1.0  
