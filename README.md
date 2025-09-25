@@ -2,6 +2,9 @@
 ## Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding (CBM-HNMU)
 ![CBM-HNMU](https://github.com/XiGuaBo/CBM-HNMU/blob/main/ICCV_2025_48_96_POSTER%20CBM-HNMU.png "CBM-HNMU")  
 
+# Paper
+## For getting the latest update of our paper, please refer to https://doi.org/10.48550/arXiv.2506.22803.
+
 # requirement
 clip==1.0  
 jax==0.4.31  
@@ -24,8 +27,8 @@ These are the main packages needed to be installed. For detailed, please refer t
 We will also provide the integrated environment of Anaconda3 in the future.  
 
 # Dependence Url
-Clip  : [url:] https://github.com/openai/CLIP  
-Craft : [url:] https://github.com/deel-ai/Craft  
+OpenAI-CLIP: https://github.com/openai/CLIP  
+CRAFT: https://github.com/deel-ai/Craft  
 
 # Datasets
 Please refer to the README.md in Dataset.  
