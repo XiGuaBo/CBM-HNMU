@@ -8,13 +8,13 @@ For getting the latest update of our paper, please refer to https://doi.org/10.4
 ## Citation
 If you find this project helpful, please consider citing:
 
-    @article{Xiong2025InterveningIB,
-      title={Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding},
-      author={Nuoye Xiong and Anqi Dong and Ning Wang and Cong Hua and Guangming Zhu and Lin Mei and Peiyi Shen and Liang Zhang},
-      journal={ArXiv},
-      year={2025},
-      volume={abs/2506.22803},
-      url={https://api.semanticscholar.org/CorpusID:280011873}
+    @InProceedings{Xiong_2025_ICCV,
+        author    = {Xiong, Nuoye and Dong, Anqi and Wang, Ning and Hua, Cong and Zhu, Guangming and Mei, Lin and Shen, Peiyi and Zhang, Liang},
+        title     = {Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding},
+        booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+        month     = {October},
+        year      = {2025},
+        pages     = {2836-2845}
     }
   
 ## requirement
